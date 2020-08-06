@@ -1,9 +1,3 @@
-# alirazavi.github.io
-Seyed Ali Razavi Ebrahimi
-
-سيد علي رضوي ابراهيمي
-
-**به نام خدا**
 
 # خلاصه مشخصات و سوابق
 

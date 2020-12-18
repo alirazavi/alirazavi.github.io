@@ -1,0 +1,81 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+h2 {
+  color: #C40233;
+  text-align: center;
+  border-bottom: 4px solid #C40233;
+  margin: .5em 0 0;
+}
+
+ul {
+  margin-top: 1em;
+  padding-left: 1.25em;
+}
+
+.experience-length {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  margin-top: .25em;
+}
+.experience-list {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-flow: row wrap;
+}
+.experience-list-item {
+  -webkit-box-flex: 0;
+          flex: 0 50%;
+  margin-bottom: 1em;
+  padding-right: 3em;
+}
+
+.skills {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-flow: row wrap;
+}
+
+.skill {
+  -webkit-box-flex: 0;
+          flex: 0 50%;
+  margin-bottom: 1em;
+  padding-right: 3em;
+}
+
+.technologies {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-flow: row wrap;
+}
+
+.technology {
+  -webkit-box-flex: 0;
+          flex: 0 33.33%;
+  margin-bottom: 1em;
+  padding-right: 3em;
+}

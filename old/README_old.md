@@ -3,7 +3,7 @@
 
 ####
 
-![](RackMultipart20200806-4-9h0qwa_html_2f7b43e77fd185ec.jpg)
+![](../asssets/images/RackMultipart20200806-4-9h0qwa_html_2f7b43e77fd185ec.jpg)
 
 سيد علي رضوي ابراهيمي
 

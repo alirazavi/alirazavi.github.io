@@ -20,7 +20,7 @@ class Resume extends React.Component {
         request.send();
       });
     }
-    getResume('https://adamgiese.github.io/json/resume.json').then(response => {
+    getResume('https://alirazavi.github.io/assets/json/resume.json').then(response => {
       this.setState({
         name: response.info.name,
         summary: response.info.summary,
